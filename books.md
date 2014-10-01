@@ -1,0 +1,23 @@
+# Books that are awesome
+
+- The Visual Display of Quantitative Information, by Edward Tufte
+- The Design of Everyday Things, by Donald A. Norman
+- Design as Art, by Bruno Munari
+- Notes on the Synthesis of Form, by Christopher Alexander
+- Rework, by 37signals
+- Remote, by 37signals
+- Getting Real, by 37signals
+- The Hitchhikers Guide to the Galaxy series, by Douglas Adams
+- Dirk Gently series, by Douglas Adams
+- Zen and the Art of Motorcycle Maintenance, by Robert M. Pirsig
+- Lila, by Robert M. Pirsig
+- The Art of Photography, by Bruce Barnbaum
+- Domain-Driven Design, by Eric Evans
+- How to Win Friends and Influence People, by Dale Carnegie
+- Johnathan Livingston Seagull, by Richard Bach
+- Being Geek, by Michael Lopp
+- The Hard Thing About Hard Things, by Ben Horowitz
+- The Little Black Book of Design, by Adam Judge
+- The Little Book of Contentment, by Leo Babauta
+- Where Good Ideas Come From, by Steven Johnson
+- Zen Mind, Beginners Mind, by Shunryu Suzuki
