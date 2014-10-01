@@ -21,4 +21,6 @@
 - The Little Book of Contentment, by Leo Babauta
 - Where Good Ideas Come From, by Steven Johnson
 - Zen Mind, Beginners Mind, by Shunryu Suzuki
+- Across Realtime, Vernor Vinge
+- The Forever War, Joe Haldeman
 - The Goldfinch, by Donna Tartt
