@@ -23,3 +23,4 @@
 - Zen Mind, Beginners Mind, by Shunryu Suzuki
 - Across Realtime, Vernor Vinge
 - The Forever War, Joe Haldeman
+- The Goldfinch, by Donna Tartt
